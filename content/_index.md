@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Welocome
+        Hi
       image:
         filename: lab-pho.JPG
       text: |
