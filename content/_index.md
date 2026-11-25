@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Lei's Lab
+        Welocome
       image:
         filename: lab-pho.JPG
       text: |
