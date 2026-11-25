@@ -3,6 +3,7 @@
 title:
 date: 2022-10-24
 type: landing
+---
 
 sections:
   - block: hero
@@ -10,13 +11,12 @@ sections:
       title: |
         Hi 👀
       image:
-        filename: lab-pho.JPG
+        filename: lab-pho.jpg
       text: |
         <br>
 
         **Lei's Lab**, based at China Agricultural University, is dedicated to advancing theoretical ecology through research, education, and collaboration, with a focus on understanding the structure, dynamics, and stability of ecological systems in a changing world.
-  
-  
+
   - block: markdown
     content:
       title:
@@ -25,7 +25,7 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
+        image:
           filename: din.jpg
           filters:
             brightness: 1
@@ -37,7 +37,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
- - block: contact
+  - block: contact
     content:
       title: Contact Us
       text: |-
@@ -49,18 +49,7 @@ sections:
         region: Haidian district
         postcode: '100193'
         country: China
-      
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
+        country_code: CN
       autolink: true
-    
-      
     design:
       columns: '1'
-  
----
