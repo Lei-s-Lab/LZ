@@ -10,7 +10,7 @@ sections:
       title: |
         Lei's Lab
       image:
-        filename: welcome.jpg
+        filename: lab-pho.jpg
       text: |
         <br>
 
