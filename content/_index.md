@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Hi
+        Hi 👀
       image:
         filename: lab-pho.JPG
       text: |
