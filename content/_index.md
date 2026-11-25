@@ -5,17 +5,16 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+    - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Lei's Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **Lei’s Lab**, based at China Agricultural University, is dedicated to advancing theoretical ecology through research, education, and collaboration, with a focus on understanding the structure, dynamics, and stability of ecological systems in a changing world.
   
   - block: collection
     content:
