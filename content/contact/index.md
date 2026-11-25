@@ -12,11 +12,11 @@ sections:
         Interested in our research? Feel free to get in touch.
       email: lei.zhao@cau.edu.cn
       address:
-        street: 圆明园西路2号资环楼2-227
-        city: 北京市
-        region: 海淀区
+        street: 2-227, Office building of the College of Resources and Environmental Sciences, No. 2 Yuanmingyuan West Road
+        city: Beijing
+        region: Haidian district
         postcode: '100193'
-        country: 中华人民共和国
+        country: China
       
       #contact_links:
       #  - icon: comments
