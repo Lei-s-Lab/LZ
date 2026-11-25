@@ -1,0 +1,4 @@
+.avatar img,
+img.rounded-full {
+  border-radius: 0px !important;
+}
