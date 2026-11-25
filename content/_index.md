@@ -10,7 +10,7 @@ sections:
       title: |
         Hi 👀
       image:
-        filename: lab-pho.jpg
+        filename: lab-pho.JPG
       text: |
         <br>
 
