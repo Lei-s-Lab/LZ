@@ -24,5 +24,5 @@ interests:
 highlight_name: false
 
 user_groups:
-  - PhD Students
+  - PhD Student
 ---
