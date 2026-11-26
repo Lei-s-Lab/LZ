@@ -26,7 +26,7 @@ email: ''
 highlight_name: false
 
 user_groups:
-  -Graduate Student
+  - Graduate Student
 ---
 
 > "厚德穷理，经世致用"
