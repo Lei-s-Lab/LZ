@@ -14,7 +14,7 @@ sections:
           - Professor
           - Post-doc
           - PhD Student
-          - ‌Graduate Student‌
+          - Graduate Student
       sort_by: Params.last_name
       sort_ascending: true
     design:
