@@ -13,8 +13,8 @@ sections:
       user_groups:
           - Professor
           - Post-doc
-          - PHD student
-          - ‌Graduate student‌
+          - PHD Student
+          - ‌Graduate Student‌
       sort_by: Params.last_name
       sort_ascending: true
     design:
