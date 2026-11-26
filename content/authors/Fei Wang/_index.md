@@ -18,7 +18,7 @@ social:
 email: '15550342816@163.com'
 
 interests:
-  -'"Stay hungry, stay foolish."'
+  - '"Stay hungry, stay foolish."'
   - Microbe Community Ecology
   - Food Web
 
