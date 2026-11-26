@@ -6,7 +6,7 @@ last_name: Chen
 
 superuser: false
 
-role: Graduate Student
+role:Graduate Student
 
 organizations:
   - name: China Agricultural University
@@ -26,7 +26,7 @@ email: ''
 highlight_name: false
 
 user_groups:
-  - Graduate Student
+  -Graduate Student
 ---
 
 > "厚德穷理，经世致用"
