@@ -1,4 +1,6 @@
+img.rounded-full,
 .avatar img,
-img.rounded-full {
+.avatar-circle img,
+.portrait img {
   border-radius: 0px !important;
 }
