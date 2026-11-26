@@ -1,0 +1,7 @@
+img.rounded-full,
+img[class*="avatar"],
+[class*="avatar"] img,
+.people-person img,
+.author-card img {
+  border-radius: 0px !important;
+}
