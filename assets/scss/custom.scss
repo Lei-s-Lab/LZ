@@ -1,8 +1,7 @@
-/* 头像改为一寸照比例（5:7）+ 圆角 */
+img.rounded-full,
+img[class*="avatar"],
+[class*="avatar"] img,
 .people-person img,
 .author-card img {
-  width: 295px !important;
-  height: 413px !important;
-  object-fit: cover !important;
   border-radius: 0px !important;
 }
