@@ -8,8 +8,6 @@ Members of Lei's Lab attended the 13th Annual Meeting of Theoretical Ecology, he
 
 Yao Liu gave an oral presentation on the lab's recent work.
 
-![](featured.jpg)
-
 ![](talk.jpg)
 
 It was a great opportunity to exchange ideas and build collaborations — we look forward to next year's meeting!
