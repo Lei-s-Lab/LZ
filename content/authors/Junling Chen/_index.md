@@ -6,7 +6,7 @@ last_name: Chen
 
 superuser: false
 
-role:Graduate Student
+role: Graduate Student
 
 organizations:
   - name: China Agricultural University
