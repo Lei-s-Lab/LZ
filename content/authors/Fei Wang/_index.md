@@ -18,11 +18,9 @@ social:
 email: '15550342816@163.com'
 
 interests:
-  - '"Stay hungry, stay foolish."'
   - Microbe Community Ecology
   - Food Web
 
-Email: 15550342816@163.com
 
 highlight_name: false
 
@@ -30,3 +28,9 @@ user_groups:
   - PhD Student
 
 ---
+
+> "You get what you paid"
+
+📧 Email: [15550342816@163.com](mailto:zhangsan@cau.edu.cn)
+
+
