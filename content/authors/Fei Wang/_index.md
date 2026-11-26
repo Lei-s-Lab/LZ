@@ -13,7 +13,7 @@ bio: "You get what you paid"
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:你的邮箱'
+    link: 'mailto:15550342816@163.com'
 
 email: '15550342816@163.com'
 
@@ -31,6 +31,6 @@ user_groups:
 
 > "You get what you paid"
 
-📧 Email: [15550342816@163.com](mailto:zhangsan@cau.edu.cn)
+📧 Email: [15550342816@163.com](mailto:15550342816@163.com)
 
 
