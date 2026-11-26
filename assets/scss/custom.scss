@@ -1,7 +1,8 @@
-img.rounded-full,
-img[class*="avatar"],
-[class*="avatar"] img,
+/* 头像改为竖版长方形（3:4）+ 圆角 */
 .people-person img,
 .author-card img {
+  width: 225px !important;
+  height: 300px !important;
+  object-fit: cover !important;
   border-radius: 0px !important;
 }
