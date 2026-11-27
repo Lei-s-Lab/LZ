@@ -14,7 +14,7 @@ organizations:
 
 interests:
   - Machine Learning
-  - Communoty Ecology
+  - Community Ecology
 
 social:
   - icon: envelope
