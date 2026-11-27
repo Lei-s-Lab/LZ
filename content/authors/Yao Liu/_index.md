@@ -19,7 +19,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:15550342816@163.com'
+    link: 'mailto:ly0708@cau.edu.cn'
 
 email: ''
 
@@ -31,4 +31,4 @@ user_groups:
 
 > "Aspiring to Become the World's No. 1 Ecologist"
 
-📧 Email: [15550342816@163.com](mailto:15550342816@163.com)
+📧 Email: [ly0708@cau.edu.cn](mailto:ly0708@cau.edu.cn)
